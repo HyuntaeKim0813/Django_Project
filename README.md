@@ -1,2 +1,2 @@
 # Django_Project
-http://www.hyuntaefinance.com/
+https://hyuntaekim0813.github.io/Django_Project/
