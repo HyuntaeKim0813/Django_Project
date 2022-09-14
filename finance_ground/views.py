@@ -24,6 +24,9 @@ def invsetment_stock(request):
 def investment_stock_chap1(request):
     return render(request, 'investment_stock_chap1.html')
 
+def investment_stock_chap2(request):
+    return render(request, 'investment_stock_chap2.html')
+
 def cfa_lvl_1(request):
     return render(request, 'cfa_lvl_1.html')
 
