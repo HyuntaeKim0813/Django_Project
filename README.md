@@ -1,2 +1,2 @@
 # Django_Project
-https://hyuntaekim0813.github.io/Django_Project/templates/
+http://18.234.214.228:8000/category/
